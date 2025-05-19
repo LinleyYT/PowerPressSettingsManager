@@ -1,0 +1,6 @@
+@PowerPressSettingsManager_HostAddress = http://localhost:5253
+
+GET {{PowerPressSettingsManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
